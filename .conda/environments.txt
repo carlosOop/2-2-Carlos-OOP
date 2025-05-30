@@ -1,0 +1,3 @@
+C:\Users\pined\miniconda3
+C:\Users\pined\miniconda3\envs\myenv
+C:\Users\pined\anaconda3

@@ -1,0 +1,10 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Robert P. Carlos
+	email = robertpcarlos@iskolarngbayan.pup.edu.ph
+[safe]
+	directory = C:/Users/pined
